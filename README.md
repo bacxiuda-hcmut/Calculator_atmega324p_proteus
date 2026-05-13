@@ -16,5 +16,5 @@ FEATURES --------------------------------------------------------
 [+] Chain Calculation
 [+] Divide By Zero Error
 [+] Clean LCD Driver 
-[+] Better State Handling
-Author : Huy Pham
+
+
